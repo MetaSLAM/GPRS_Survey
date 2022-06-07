@@ -1,4 +1,4 @@
-# PR_benchmark
+# GPR Survey
 Benchmark for Lidar and Visual place recognition
 
 <p align="center">
