@@ -1,5 +1,5 @@
 # PR_benchmark
-Benchmark for lidar and visual place recognition
+Benchmark for Lidar and Visual place recognition
 
 <p align="center">
   <img src="https://github.com/ContinualAI/continual-learning-papers/blob/main/logo.png" alt="ContinualAI logo"/ width="300px" align="center">
