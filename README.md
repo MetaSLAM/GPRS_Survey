@@ -1,4 +1,4 @@
-# General Place Recognition Survey: Toward the Real-world Autonomy Age
+# General Place Recognition Survey: Towards the Real-world Autonomy Age
 Benchmark for Lidar and Visual place recognition
 
 <p align="center">
