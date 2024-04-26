@@ -133,7 +133,7 @@ We will periodically export the bibtex to keep the list updated. In case we forg
   * S. Garg, T. Fischer, and M. Milford, Where is your place, visual placerecognition? arXiv preprint arXiv:2103.06443, 2021.
   * M. Zaffar, S. Garg, M. Milford, J. Kooij, D. Flynn, K. McDonald-Maier, and S. Ehsan, Vpr-bench: An open-source visual place recogni-tion evaluation framework with quantifiable viewpoint and appearancechange, Int. J. Comput. Vision, vol. 129, no. 7, pp. 2136–2174, jul2021.
   * J. Miao, K. Jiang, T. Wen, Y. Wang, P. Jia, X. Zhao, Z. Xiao, J. Huang,Z. Zhong, and D. Yang, A survey on monocular re-localization:From the perspective of scene map representation, arXiv preprintarXiv:2311.15643, 2023.
-  * H. Yin, X. Xu, S. Lu, X. Chen, R. Xiong, S. Shen, C. Stachniss, and Y. Wang, A survey on global lidar localization: Challenges, advancesand open problems, arXiv preprint arXiv:2302.07433, 2023.
+  * H. Yin, X. Xu, S. Lu, X. Chen, R. Xiong, S. Shen, C. Stachniss, and Y. Wang, A survey on global lidar localization: Challenges, advances and open problems, International Journal of Computer Vision, pp. 1–33, 2024.
 
 <a id="representation"></a>
 # Representation
