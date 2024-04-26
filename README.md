@@ -19,8 +19,12 @@ General Place Recognition papers list. **Search among 170 papers!**
 * [List of papers]()
     - [Review paper](#review-papers)
     - [Representation](#representation)
-      - [Camera-Related Approaches (VPR)](#camera-related-approaches)
-      - [Range Sensor-Related Approaches (LPR/RPR)](#range-sensor-related-approaches)
+      - [Low-Level Representation](#low-level-representation)
+        - [Camera-Related Approaches (VPR)](#camera-related-approaches)
+        - [Range Sensor-Related Approaches (LPR/RPR)](#range-sensor-related-approaches)
+      - [High-Level Representation](#high-level-representation)
+        - [Graph](#graph)
+        - [Embeddings](#embeddings)
     - [Recognizing the Right Place Aginst Challenges](#recognizing-the-right-place-aginst-challenges)
       - [Appearance Change](#a-appearance-change)
       - [Viewpoint Difference](#b-viewpoint-difference)
@@ -138,9 +142,9 @@ We will periodically export the bibtex to keep the list updated. In case we forg
 <a id="representation"></a>
 # Representation
 
-## Low-Level Representation
+## A. Low-Level Representation
 <a id="camera_based_approach"></a>
-### Camera-Related Approaches 
+### A.1 Camera-Related Approaches 
   * M. Zaffar, S. Ehsan, M. Milford, and K. McDonald-Maier, Co-hog: A light-weight, compute-efficient, and training-free visual placerecognition technique for changing environments, IEEE Robotics andAutomation Letters, vol. 5, no. 2, pp. 1835–1842, 2020.
   * D. Galvez-Lopez and J. D. Tardos, Bags of binary words for fastplace recognition in image sequences, IEEE Transactions on Robotics,vol. 28, no. 5, pp. 1188–1197, 2012.
   * D. Scaramuzza, Omnidirectional Camera. Boston, MA: Springer US,2014, pp. 552–560.
@@ -161,7 +165,7 @@ We will periodically export the bibtex to keep the list updated. In case we forg
   * A. J. Lee and A. Kim, Eventvlad: Visual place recognition with recon-structed edges from event cameras, in 2021 IEEE/RSJ InternationalConference on Intelligent Robots and Systems (IROS), 2021, pp. 2247–2252.
 
 <a id="range_based_approach"></a>
-### Range Sensor-Related Approaches 
+### A.2 Range Sensor-Related Approaches 
   * R. Q. Charles, H. Su, M. Kaichun, and L. J. Guibas, Pointnet:Deep learning on point sets for 3d classification and segmentation, in2017 IEEE Conference on Computer Vision and Pattern Recognition(CVPR), 2017, pp. 77–85.
   * C. Choy, J. Gwak, and S. Savarese, 4d spatio-temporal convnets:Minkowski convolutional neural networks, in Proceedings of the IEEEConference on Computer Vision and Pattern Recognition, 2019, pp.3075–3084.
   * G. Kim and A. Kim, Scan context: Egocentric spatial descriptorfor place recognition within 3d point cloud map, in 2018 IEEE/RSJInternational Conference on Intelligent Robots and Systems (IROS),2018, pp. 4802–4809.
@@ -195,10 +199,10 @@ We will periodically export the bibtex to keep the list updated. In case we forg
   * T. Y. Tang, D. D. Martini, S. Wu, and P. Newman, Self-supervisedlearning for using overhead imagery as maps in outdoor range sensorlocalization, The International Journal of Robotics Research, vol. 40,no. 12-14, pp. 1488–1509, 2021, pMID: 34992328.
   * M. Gadd, D. De Martini, and P. Newman, Contrastive learning forunsupervised radar place recognition, in 2021 20th InternationalConference on Advanced Robotics (ICAR), 2021, pp. 344–349.
 
-## High-Level Representation
+## B. High-Level Representation
 
 <a id="graph"></a>
-### Graph: 
+### B.1 Graph: 
   * N. Hughes, Y. Chang, and L. Carlone, Hydra: A real-time spatialperception system for 3d scene graph construction and optimization,arXiv preprint arXiv:2201.13360, 2022.
   * E. Stumm, C. Mei, S. Lacroix, J. Nieto, M. Hutter, and R. Siegwart,Robust visual place recognition with graph kernels, in Proceedingsof the IEEE Conference on Computer Vision and Pattern Recognition,2016, pp. 4535–4544.
   * N. Kim, O. Kwon, H. Yoo, Y. Choi, J. Park, and S. Oh, Topologicalsemantic graph memory for image-goal navigation, in Conference onRobot Learning. PMLR, 2023, pp. 393–402.
@@ -207,7 +211,7 @@ We will periodically export the bibtex to keep the list updated. In case we forg
   * N. Hughes, Y. Chang, and L. Carlone, Hydra: A real-time spatial perception system for 3d scene graph construction and optimization, arXiv preprint arXiv:2201.13360, 2022
   
 <a id="embedding"></a>
-### Embeddings: 
+### B.2 Embeddings: 
   * O. Kwon, J. Park, and S. Oh, Renderable neural radiance map forvisual navigation, in Proceedings of the IEEE/CVF Conference onComputer Vision and Pattern Recognition, 2023, pp. 9099–9108.
   * A. Radford, J. W. Kim, C. Hallacy, A. Ramesh, G. Goh, S. Agarwal,G. Sastry, A. Askell, P. Mishkin, J. Clark et al., Learning transferablevisual models from natural language supervision, in Internationalconference on machine learning. PMLR, 2021, pp. 8748–8763.
   * C. Kassab, M. Mattamala, L. Zhang, and M. Fallon, Language-extended indoor slam (lexis): A versatile system for real-time visualscene understanding, arXiv preprint arXiv:2309.15065, 2023.
