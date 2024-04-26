@@ -20,9 +20,9 @@ General Place Recognition papers list. **Search among 170 papers!**
     - [Review paper](#review-papers)
     - [Representation](#representation)
       - [Low-Level Representation](#low-level-representation)
-        - [Camera-Related Approaches (VPR)](#camera-related-approaches)
-        - [Range Sensor-Related Approaches (LPR/RPR)](#range-sensor-related-approaches)
-      - [High-Level Representation](#high-level-representation)
+        - [Camera-Related Approaches (VPR)](#camera_based_approach)
+        - [Range Sensor-Related Approaches (LPR/RPR)](#range_based_approach)
+      - [High-Level Representation](#high_level_representation)
         - [Graph](#graph)
         - [Embeddings](#embeddings)
     - [Recognizing the Right Place Aginst Challenges](#recognizing-the-right-place-aginst-challenges)
@@ -199,6 +199,7 @@ We will periodically export the bibtex to keep the list updated. In case we forg
   * T. Y. Tang, D. D. Martini, S. Wu, and P. Newman, Self-supervisedlearning for using overhead imagery as maps in outdoor range sensorlocalization, The International Journal of Robotics Research, vol. 40,no. 12-14, pp. 1488–1509, 2021, pMID: 34992328.
   * M. Gadd, D. De Martini, and P. Newman, Contrastive learning forunsupervised radar place recognition, in 2021 20th InternationalConference on Advanced Robotics (ICAR), 2021, pp. 344–349.
 
+<a id="high_level_representation"></a>
 ## B. High-Level Representation
 
 <a id="graph"></a>
