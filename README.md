@@ -211,7 +211,7 @@ We will periodically export the bibtex to keep the list updated. In case we forg
   * K. Vidanapathirana, P. Moghadam, B. Harwood, M. Zhao, S. Sridharan,and C. Fookes, Locus: Lidar-based place recognition using spatiotem-poral higher-order pooling, in 2021 IEEE International Conference onRobotics and Automation (ICRA), 2021, pp. 5075–5081.
   * N. Hughes, Y. Chang, and L. Carlone, Hydra: A real-time spatial perception system for 3d scene graph construction and optimization, arXiv preprint arXiv:2201.13360, 2022
   
-<a id="embedding"></a>
+<a id="embeddings"></a>
 ### B.2 Embeddings: 
   * O. Kwon, J. Park, and S. Oh, Renderable neural radiance map forvisual navigation, in Proceedings of the IEEE/CVF Conference onComputer Vision and Pattern Recognition, 2023, pp. 9099–9108.
   * A. Radford, J. W. Kim, C. Hallacy, A. Ramesh, G. Goh, S. Agarwal,G. Sastry, A. Askell, P. Mishkin, J. Clark et al., Learning transferablevisual models from natural language supervision, in Internationalconference on machine learning. PMLR, 2021, pp. 8748–8763.
